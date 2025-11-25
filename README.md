@@ -24,7 +24,7 @@
 ## GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meleegodvivek&show_icons=true&theme=graywhite" height="150" />
+  <img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?meleegodvivek)](https://github.com/meleegodvivek/github-readme-stats)" height="150" />
 </p>
 
 ---
